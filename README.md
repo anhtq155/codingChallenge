@@ -6,7 +6,7 @@ This repository contains a solution for the Coding Challenge, a coding exercise 
 
 To build and run this project, you need the following:
 
-- **Operating System**: Windows (as per the provided document focus).
+- **Operating System**: Windows.
 - **.NET 9 SDK**: The recommended version for this project, offering Standard Term Support and new features like AI integration and performance boosts.
 
 ## Installation
