@@ -1,4 +1,4 @@
-# Coding Challenge README
+# Coding Challenge
 
 This repository contains a solution for the Coding Challenge, a coding exercise inspired by the game Yahtzee. The challenge requires calculating the maximum score for 1000 rounds of a dice-rolling game with customizable numbers of dice (`I`) and sides (`J`), displaying the score for each round, and measuring the total execution time.
 
